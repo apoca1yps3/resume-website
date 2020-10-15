@@ -329,7 +329,7 @@ p {
     transform: scale(1); } }
 /********Body Sec CSS********/
 .fixed-bg {
-  background: transparent url("../img/bk.jpg") no-repeat;
+  background: transparent url("../img/bkimg.png") no-repeat;
   image-rendering: optimizeQuality;
   height: 100%;
   width: 100%;
