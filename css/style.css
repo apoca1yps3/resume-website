@@ -329,12 +329,13 @@ p {
     transform: scale(1); } }
 /********Body Sec CSS********/
 .fixed-bg {
-  background: transparent url("../img/mainbg.jpg") no-repeat;
+  background: transparent url("../img/bk.jpg") no-repeat;
   image-rendering: optimizeQuality;
   height: 100%;
   width: 100%;
   z-index: -1;
   position: fixed;
+  filter: brightness(75%);
   background-position: center;
   background-size: cover;
   -moz-transform: translateZ(0);
