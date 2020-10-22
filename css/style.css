@@ -873,6 +873,9 @@ a.goto-social, a.goto-social:hover {
   float: left;
   width: auto;
 }
+.container {
+  padding: 30px;
+}
 
 /********Contact Sec CSS********/
 .contact-wrap .form-control {
