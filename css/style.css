@@ -862,7 +862,6 @@ a.goto-social, a.goto-social:hover {
     color: #141414;
     font-family: "Hind", sans-serif;
     font-weight: 500;
-    text-transform: capitalize;
     float: left;
     width: 100%; }
 .achivement-list-wrap .dash-pointer {
@@ -872,7 +871,8 @@ a.goto-social, a.goto-social:hover {
 .achivement-list-wrap .achive-pts {
   display: inline-block;
   float: left;
-  width: 70%; }
+  width: auto;
+}
 
 /********Contact Sec CSS********/
 .contact-wrap .form-control {
