@@ -135,7 +135,7 @@ h6 {
 p {
   font-size: 16px;
   font-family: "Hind", sans-serif;
-  color: #777; }
+  color: #34495E ; }
 
 .p-small {
   font-size: 14px;
@@ -610,7 +610,7 @@ nav.navbar.navbar-default.vertical-nav {
 a.goto-social, a.goto-social:hover {
   font-size: 16px;
   font-weight: 600;
-  color: #141414; }
+  color: #1A5276; }
 
 .separater-hr {
   margin: 0; }
